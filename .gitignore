@@ -1,0 +1,19 @@
+# Large archives
+*.zip
+
+# Videos and outputs
+outputs/
+*.mp4
+*.avi
+
+# Training artifacts
+runs/
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+yolov5-env/
+.env

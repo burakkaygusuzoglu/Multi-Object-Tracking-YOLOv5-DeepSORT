@@ -1,0 +1,6 @@
+path: C:/Users/Burak/yolov5/dataset_merged
+train: images/train
+val: images/val
+
+nc: 1
+names: ['person']
