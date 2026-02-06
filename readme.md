@@ -130,7 +130,7 @@ These videos clearly show the improvement from detection to advanced tracking.
 Computer Engineering Student  
 Focus areas:  
 Computer Vision · Deep Learning · Object Detection · Multi-Object Tracking
-
+Linkedin:https://www.linkedin.com/in/burak-kaygusuzoğlu-173559334/
 ---
 
 ## ⭐ Conclusion
